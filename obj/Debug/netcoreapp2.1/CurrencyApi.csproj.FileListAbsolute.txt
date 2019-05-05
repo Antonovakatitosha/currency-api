@@ -1,0 +1,14 @@
+/Users/ururu/Doc/C#/CurrencyApi/bin/Debug/netcoreapp2.1/CurrencyApi.deps.json
+/Users/ururu/Doc/C#/CurrencyApi/bin/Debug/netcoreapp2.1/CurrencyApi.runtimeconfig.json
+/Users/ururu/Doc/C#/CurrencyApi/bin/Debug/netcoreapp2.1/CurrencyApi.runtimeconfig.dev.json
+/Users/ururu/Doc/C#/CurrencyApi/bin/Debug/netcoreapp2.1/CurrencyApi.dll
+/Users/ururu/Doc/C#/CurrencyApi/bin/Debug/netcoreapp2.1/CurrencyApi.pdb
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.csprojAssemblyReference.cache
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.csproj.CoreCompileInputs.cache
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.RazorAssemblyInfo.cache
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.RazorAssemblyInfo.cs
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.AssemblyInfoInputs.cache
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.AssemblyInfo.cs
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.RazorTargetAssemblyInfo.cache
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.dll
+/Users/ururu/Doc/C#/CurrencyApi/obj/Debug/netcoreapp2.1/CurrencyApi.pdb
